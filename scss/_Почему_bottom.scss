@@ -1,0 +1,26 @@
+.card__container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 40px 100px;
+    padding-top: 30px;
+}
+
+.menu__card {
+    display: flex;
+    gap: 40px;
+}
+
+.title {
+    max-width: 327px;
+    color: #363738;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.text {
+    max-width: 291px;
+    color: #6b6b6c;
+    font-size: 16px;
+    font-weight: 400;
+}

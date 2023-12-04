@@ -1,0 +1,82 @@
+.done__work {
+    max-width: 1200px;
+    height: 618px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.work_card {
+    max-width: 220px;
+    height: 439px;
+    margin-right: 200px;
+
+}
+
+.done__work>h4 {
+    margin-bottom: 32px;
+    max-width: 687px;
+    height: 49px;
+    flex-shrink: 0;
+    color: #363738;
+    font-family: Exo 2;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.done__work>p {
+    max-width: 667px;
+    height: 41px;
+    color: #6B6B6C;
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 56px;
+}
+
+
+
+.work_wrapper {
+    display: flex;
+}
+
+.work_card>h6 {
+    max-width: 327px;
+    height: 21px;
+    color: #363738;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    padding-bottom: 16px;
+}
+
+.work_card>p {
+    max-width: 291px;
+    height: 41px;
+    color: #6B6B6C;
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.work_card>h6 {
+    margin-top: 24px;
+    color: #363738;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    padding-bottom: 32px;
+}
+
+strong>.cost {
+    padding-top: 50px;
+    color: #363738;
+    font-family: Exo 2;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.6px;
+}

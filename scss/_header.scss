@@ -1,0 +1,45 @@
+.hero {
+    max-width: 1240px;
+    height: 505px;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 67px;
+}
+
+.hero__wrapper>h1 {
+    max-width: 610px;
+    height: 119px;
+    color: #363738;
+    font-family: Exo 2;
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 65px;
+    text-transform: capitalize;
+    margin-top: 81px;
+}
+
+
+.hero__wrapper>p {
+    max-width: 525px;
+    height: 66px;
+    color: #6B6B6C;
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.hero__wrapper>a {
+    color: #363738;
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-decoration: underline 3px #FFCE50;
+}
+
+.hero__wrapper>img {
+    object-fit: cover;
+}
